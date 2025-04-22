@@ -1,0 +1,43 @@
+.container {
+
+  /* width: 100%;
+  height: 100%; */
+}
+
+.upper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+
+}
+
+.upper input{
+    padding: 0.5em;
+    width: auto;
+    height: auto;
+    font-size: 1em;
+}
+.upper button{
+    padding: 0.5em 2em;
+ background: #62a2fc;
+ border: none;
+    font-size: 1em;
+}
+
+
+
+.Table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  width: 50%px;
+  background-color: aqua;
+}
+
+.Table th ,td{
+    padding: 1em 2em;
+    font-size: 1.2em;
+
+}
